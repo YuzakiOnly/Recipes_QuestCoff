@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749557225,
+	"version": 1749642221,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -19,6 +19,7 @@
 		"images/awalan2-sheet0.png",
 		"images/sprite7-sheet0.png",
 		"images/sprite8-sheet0.png",
+		"images/sprite9-sheet0.png",
 		"images/dialogbox-sheet0.png",
 		"images/ui-sheet0.png",
 		"images/quest-sheet0.png",
@@ -275,6 +276,8 @@
 		"images/skobanm-sheet0.png",
 		"images/spacem-sheet0.png",
 		"images/sprite22-sheet0.png",
+		"images/sprite43-sheet0.png",
+		"images/sprite53-sheet0.png",
 		"media/mmain.ogg",
 		"media/mselect2.ogg",
 		"media/sbukit.ogg",
