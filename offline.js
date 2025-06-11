@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749642221,
+	"version": 1749651838,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -276,8 +276,10 @@
 		"images/skobanm-sheet0.png",
 		"images/spacem-sheet0.png",
 		"images/sprite22-sheet0.png",
-		"images/sprite43-sheet0.png",
-		"images/sprite53-sheet0.png",
+		"images/lanjut_quest-sheet0.png",
+		"images/tidakk-sheet0.png",
+		"images/atas-sheet0.png",
+		"images/press-sheet0.png",
 		"media/mmain.ogg",
 		"media/mselect2.ogg",
 		"media/sbukit.ogg",
