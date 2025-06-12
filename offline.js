@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749685379,
+	"version": 1749691111,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -280,6 +280,7 @@
 		"images/tidakk-sheet0.png",
 		"images/atas-sheet0.png",
 		"images/press-sheet0.png",
+		"images/keluarjirr-sheet0.png",
 		"media/mmain.ogg",
 		"media/mselect2.ogg",
 		"media/sbukit.ogg",
