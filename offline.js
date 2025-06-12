@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749698276,
+	"version": 1749701306,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -232,7 +232,6 @@
 		"images/presskoban-sheet0.png",
 		"images/boxchek-sheet0.png",
 		"images/player_skoban-sheet0.png",
-		"images/player_skoban-sheet1.png",
 		"images/rumput1.png",
 		"images/tilemap19.png",
 		"images/tembok_1.png",
