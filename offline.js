@@ -1,5 +1,5 @@
 ﻿{
-	"version": 1749886401,
+	"version": 1749895277,
 	"fileList": [
 		"data.js",
 		"c2runtime.js",
@@ -271,6 +271,9 @@
 		"images/laserb-sheet0.png",
 		"images/laserb-sheet1.png",
 		"images/sprite28-sheet0.png",
+		"images/sprite49-sheet0.png",
+		"images/sprite50-sheet0.png",
+		"images/sprite50-sheet1.png",
 		"images/sprite34-sheet0.png",
 		"images/pesawat-sheet0.png",
 		"images/sprite35-sheet0.png",
@@ -286,6 +289,7 @@
 		"images/sprite32-sheet0.png",
 		"images/heal-sheet0.png",
 		"images/sprite43-sheet0.png",
+		"images/sprite51-sheet0.png",
 		"images/carm-sheet0.png",
 		"images/keluarmain-sheet0.png",
 		"images/skobanm-sheet0.png",
